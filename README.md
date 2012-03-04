@@ -1,7 +1,7 @@
 HTC Home Apis Translation Toolkit v1.2
 ======================================
 
-Translation Toolkit contains some tools for generating localized HTC Home 3 assemblies.
+Translation Toolkit contains some tools for generating localized [HTC Home 3](http://www.htchome.org/) assemblies.
 
 Instructions
 ------------
@@ -30,6 +30,4 @@ Notes
 
 Microsoft Assembly Linker (al.exe) and Microsoft .NET Resource Generator (resgen.exe) are part of Microsoft .NET Framework SDK.
 
-Thanks to Léo Colomb - L.P.C. Cie
-
-Copyright (C) Stealth 2011
+Thanks to Léo Colomb - L.P.C. Cie | Copyright (C) Stealth 2012
