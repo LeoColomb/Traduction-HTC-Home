@@ -1,0 +1,17 @@
+<Extras>
+  <Cid>afab1d47-d2d6-4d1f-b0be-fe3f30c5b9c2</Cid>
+  <Title>English localization</Title>
+  <Developer>Stealth</Developer>
+  <Version>1.0</Version>
+  <Removable>True</Removable>
+  <Files>
+    <File>fr-FR\Clock.resources.dll</File>
+    <File>fr-FR\FriendStream.resources.dll</File>
+    <File>fr-FR\Home.Packaging.resources.dll</File>
+    <File>fr-FR\News.resources.dll</File>
+    <File>fr-FR\Photos.resources.dll</File>
+    <File>fr-FR\Update.resources.dll</File>
+    <File>fr-FR\Weather.resources.dll</File>
+    <File>Extras\Locale\en-US.ext.xml</File>
+  </Files>
+</Extras>

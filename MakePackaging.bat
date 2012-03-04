@@ -1,0 +1,1 @@
+FOR /F %%a IN (culture.txt) DO Builder\build_pm.bat %%a
