@@ -10,7 +10,7 @@ Instructions
 2. Use any Resx editor to translate strings in this files. You can use simple, free and open-source [Zeta Resource Editor](http://www.zeta-resource-editor.com).
 3. To build `.resx` files to `.dll` librarie, change your culture and execute `Make[…].bat` file:
 
-	* Just change in `culture.txt` file `en-US` in your culture (Example: en-US => fr-FR)
+	* Just change in `culture.txt` file `en-US` in your culture (Example: `en-US` => `fr-FR`)
 	* Just execute `Make[…].bat` file.
 
 4. Done. Localized assemblies could be found in `<culture name>` folder. You can pack whole folder in 7z archive with `.hhpack` extension (just rename .7z to .hhpack). But if you want to make your translation updateble by HTC Home Updater, you need to do the next step.
